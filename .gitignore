@@ -1,0 +1,12 @@
+﻿# Arduino / Teensy
+*.eep
+*.elf
+*.hex
+*.bin
+*.d
+*.o
+*.map
+*.lst
+build*/
+.vscode/
+.DS_Store
